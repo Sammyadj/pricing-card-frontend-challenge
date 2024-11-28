@@ -18,11 +18,8 @@ body {
 }
 
 #card-container {
-    /*width: 650px;*/
-    /*height: 450px;*/
     border-radius: 5px;
-    box-shadow: 2px 3px 7px 0px rgba(0, 0, 0, 0.35);
-    /*overflow: hidden;*/
+    box-shadow: 2px 3px 7px rgba(0, 0, 0, 0.35);
 }
 
 #top-section-container {
